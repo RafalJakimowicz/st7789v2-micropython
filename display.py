@@ -11,4 +11,4 @@ lcd.clear()
 lcd.draw_text(60, 60, "WITAM", 0xFFFF)
 
 # Draw a rectangle
-lcd.draw_rect(50, 50, 100, 100, 0xF800)  # Red rectangle
+lcd.draw_rect(50, 50, 100, 100, 0xF800)  # Blue rectangle
